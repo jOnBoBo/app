@@ -1,0 +1,6 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="retrieve_button_text">Retrieve Usage Stats</string>
+    <!-- Add more string resources here if needed -->
+</resources>
